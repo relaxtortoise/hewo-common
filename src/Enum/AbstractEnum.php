@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hewo\Common\Contract;
+namespace Hewo\Common\Enum;
 
 
 use Exception;
@@ -89,7 +89,7 @@ abstract class AbstractEnum
     {
         $class = get_class($this);
         $rcs =  new \ReflectionClass($class);
-        $name = strtolower(substr($name, 3));
+        $name = strtolower($name);
 
         return ConstantsCollector::getValue($class, $rcs->getConstant($this->currentConst()), $name);
     }

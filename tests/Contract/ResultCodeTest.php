@@ -2,7 +2,7 @@
 
 namespace HyperfTest\Contract;
 
-use Hewo\Common\Contract\ResultCode;
+use Hewo\Common\Enum\ResultCode;
 use Hyperf\Utils\Str;
 use PHPUnit\Framework\TestCase;
 

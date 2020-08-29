@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2681abb9-8254-42b7-9a35-0f64de8134ad" name="Default Changelist" comment="" />
+    <list default="true" id="2681abb9-8254-42b7-9a35-0f64de8134ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contract/AbstractEnum.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enum/AbstractEnum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contract/ResultCode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Response/Result.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Response/Result.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Contract/ResultCodeTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Contract/ResultCodeTest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +17,9 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -97,6 +107,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1giXWGHqYrMAcMkgcp3mCfQMV7k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -121,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598598417047</updated>
-      <workItem from="1598598418082" duration="16407000" />
+      <workItem from="1598598418082" duration="18701000" />
     </task>
     <servers />
   </component>
@@ -145,6 +156,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="678" y="235" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1598666049288" />
+    <state x="755" y="414" key="Github.ShareDialog" timestamp="1598694140841">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="755" y="414" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598694140841" />
+    <state x="670" y="72" key="Github.UntrackedFilesDialog" timestamp="1598694152127">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="670" y="72" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598694152127" />
     <state x="974" y="227" width="539" height="711" key="NewPhpClassDialog" timestamp="1598689361612">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

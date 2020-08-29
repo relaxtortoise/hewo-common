@@ -3,7 +3,7 @@
 
 namespace Hewo\Common\Response;
 
-use Hewo\Common\Contract\ResultCode;
+use Hewo\Common\Enum\ResultCode;
 use Hyperf\HttpServer\Response;
 use Hyperf\Utils\Contracts\Arrayable;
 use Hyperf\Utils\Contracts\Jsonable;
