@@ -19,15 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2681abb9-8254-42b7-9a35-0f64de8134ad" name="Default Changelist" comment="更新 Enum组件，更新Readme.md文件">
+    <list default="true" id="2681abb9-8254-42b7-9a35-0f64de8134ad" name="Default Changelist" comment="统一响应">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/AbstractController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/AbstractController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum/AbstractEnum.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enum/AbstractEnum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/ClassNotFoundException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/ClassNotFoundException.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/IllegalArgumentException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/IllegalArgumentException.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception/IllegalStateException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/IllegalStateException.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Response/Result.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Response/Result.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Contract/ResultCodeTest.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +132,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
-    <property name="last_opened_file_path" value="D:/code/KPPW3.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="php.override.implement.member.chooser.php.doc" value="COPY_ALWAYS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -156,7 +150,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598598417047</updated>
       <workItem from="1598598418082" duration="19384000" />
-      <workItem from="1598841842434" duration="10197000" />
+      <workItem from="1598841842434" duration="11532000" />
+      <workItem from="1598860683968" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="更新 Enum组件，更新Readme.md文件">
       <created>1598696558295</created>
@@ -165,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598696558295</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="统一响应">
+      <created>1598858229066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598858229066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,10 +183,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新 Enum组件，更新Readme.md文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新 Enum组件，更新Readme.md文件" />
+    <MESSAGE value="统一响应" />
+    <option name="LAST_COMMIT_MESSAGE" value="统一响应" />
   </component>
   <component name="WindowStateProjectService">
     <state x="688" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1598690848849">
@@ -199,10 +203,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="624" y="235" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598689793032" />
-    <state x="678" y="235" key="FileChooserDialogImpl" timestamp="1598666049288">
+    <state x="678" y="235" key="FileChooserDialogImpl" timestamp="1598860563531">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="678" y="235" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1598666049288" />
+    <state x="678" y="235" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1598860563531" />
     <state x="755" y="414" key="Github.ShareDialog" timestamp="1598694140841">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
