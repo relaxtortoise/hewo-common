@@ -4,7 +4,7 @@
 namespace Hewo\Common\Exception;
 
 
-class ClassNotFoundException extends \RuntimeException
+class ClassNotFoundException extends RuntimeException
 {
 
 }

@@ -4,7 +4,7 @@
 namespace Hewo\Common\Exception;
 
 
-class IllegalArgumentException extends \RuntimeException
+class IllegalArgumentException extends RuntimeException
 {
 
 }

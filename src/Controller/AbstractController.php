@@ -4,9 +4,9 @@
 namespace Hewo\Common\Controller;
 
 
+use Hewo\Common\Response\Result;
 use Hyperf\Di\Annotation\Inject;
 use Hyperf\HttpServer\Contract\RequestInterface;
-use Hyperf\HttpServer\Contract\ResponseInterface;
 use Psr\Container\ContainerInterface;
 
 class AbstractController
@@ -25,7 +25,7 @@ class AbstractController
 
     /**
      * @Inject()
-     * @var ResponseInterface
+     * @var Result
      */
     protected $response;
 

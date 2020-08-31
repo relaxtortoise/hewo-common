@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2681abb9-8254-42b7-9a35-0f64de8134ad" name="Default Changelist" comment="">
+    <list default="true" id="2681abb9-8254-42b7-9a35-0f64de8134ad" name="Default Changelist" comment="更新 Enum组件，更新Readme.md文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contract/AbstractEnum.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enum/AbstractEnum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contract/ResultCode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/AbstractController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/AbstractController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Enum/AbstractEnum.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enum/AbstractEnum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/ClassNotFoundException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/ClassNotFoundException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/IllegalArgumentException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/IllegalArgumentException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/IllegalStateException.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/IllegalStateException.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Response/Result.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Response/Result.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Contract/ResultCodeTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Contract/ResultCodeTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Contract/ResultCodeTest.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -107,7 +127,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1giXWGHqYrMAcMkgcp3mCfQMV7k" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -118,6 +140,7 @@
     <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
     <property name="last_opened_file_path" value="D:/code/KPPW3.7" />
     <property name="php.override.implement.member.chooser.php.doc" value="COPY_ALWAYS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -132,22 +155,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598598417047</updated>
-      <workItem from="1598598418082" duration="18701000" />
+      <workItem from="1598598418082" duration="19384000" />
+      <workItem from="1598841842434" duration="10197000" />
     </task>
+    <task id="LOCAL-00001" summary="更新 Enum组件，更新Readme.md文件">
+      <created>1598696558295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598696558295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新 Enum组件，更新Readme.md文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新 Enum组件，更新Readme.md文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="688" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1598690848849">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="688" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1598690848849" />
-    <state x="625" y="234" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598617661390">
+    <state x="625" y="234" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598847140619">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="234" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598617661390" />
+    <state x="625" y="234" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598847140619" />
     <state x="624" y="235" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1598689793032">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -164,17 +211,33 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="670" y="72" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598694152127" />
-    <state x="974" y="227" width="539" height="711" key="NewPhpClassDialog" timestamp="1598689361612">
+    <state x="628" y="216" width="559" height="711" key="NewPhpClassDialog" timestamp="1598847085316">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="974" y="227" width="539" height="711" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598689361612" />
-    <state x="673" y="284" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1598690868773">
+    <state x="628" y="216" width="559" height="711" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598847085316" />
+    <state x="452" y="202" key="Vcs.Push.Dialog.v2" timestamp="1598696566600">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="673" y="284" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598690868773" />
+    <state x="452" y="202" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1598696566600" />
+    <state x="673" y="284" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1598842198470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="673" y="284" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598842198470" />
+    <state x="575" y="187" width="769" height="706" key="find.popup" timestamp="1598842014541">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="575" y="187" width="769" height="706" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598842014541" />
+    <state x="650" y="264" key="refactoring.ChangeSignatureDialog" timestamp="1598857370228">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="650" y="264" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598857370228" />
     <state x="532" y="246" key="run.anything.popup" timestamp="1598693959378">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="532" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598693959378" />
+    <state x="521" y="45" width="875" height="1034" key="search.everywhere.popup" timestamp="1598854871537">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="521" y="45" width="875" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598854871537" />
   </component>
 </project>

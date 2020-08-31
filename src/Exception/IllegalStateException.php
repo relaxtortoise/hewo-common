@@ -4,7 +4,7 @@
 namespace Hewo\Common\Exception;
 
 
-class IllegalStateException extends \RuntimeException
+class IllegalStateException extends RuntimeException
 {
 
 }
